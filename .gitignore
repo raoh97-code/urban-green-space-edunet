@@ -1,0 +1,4 @@
+
+image_dataset/
+__pycache__/
+*.pyc
